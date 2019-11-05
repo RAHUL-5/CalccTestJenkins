@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class CalculatorTest 
 {
-	App app;
+Calculator calc;
 	@Before
 	public void init() {
 		app = new App();
