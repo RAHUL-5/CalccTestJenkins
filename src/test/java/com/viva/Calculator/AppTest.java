@@ -12,7 +12,7 @@ public class CalculatorTest
 Calculator calc;
 	@Before
 	public void init() {
-		app = new App();
+		calc  = new Calculator();
 	}
 	
 	@Test
